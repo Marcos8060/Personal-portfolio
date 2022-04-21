@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Nunito+Sans:wght@600&family=Nunito:wght@600&family=Poppins:wght@200;400;600;700&display=swap');
 /**
 * Template Name: Personal - v4.7.0
 * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
@@ -9,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: Nunito;
   background-color: #040404;
   color: #fff;
   color: white;
